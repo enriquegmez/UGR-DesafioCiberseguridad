@@ -1,6 +1,6 @@
 # 🛡️ Sistema Anti-Phishing & Anti-Spamming | Email Security Suite
 
-Este repositorio contiene el desarrollo de un sistema avanzado de filtrado de correo electrónico diseñado para identificar, bloquear y mitigar mensajes maliciosos de tipo **phishing** y **spamming**. Este proyecto responde al desafío planteado en el [Reto Mayo 2025](https://catedras.ugr.es/ciberugr-incibe/informacion/noticias/retomayo2025) de la Cátedra CiberUGR-INCIBE. Esta solución fue premiada como finalista. [Click aquí para ver el certificado](./DiplomaFinalista1).
+Este repositorio contiene el desarrollo de un sistema avanzado de filtrado de correo electrónico diseñado para identificar, bloquear y mitigar mensajes maliciosos de tipo **phishing** y **spamming**. Este proyecto responde al desafío planteado en el [Reto Mayo 2025](https://catedras.ugr.es/ciberugr-incibe/informacion/noticias/retomayo2025) de la Cátedra CiberUGR-INCIBE. Esta solución fue premiada como finalista. [Click aquí para ver el certificado](./DiplomaFinalista1.pdf).
 
 ---
 
