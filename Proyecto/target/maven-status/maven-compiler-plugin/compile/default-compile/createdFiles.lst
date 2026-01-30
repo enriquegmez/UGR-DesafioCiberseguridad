@@ -1,0 +1,7 @@
+com\mycompany\emailfilter\EmailSave.class
+com\mycompany\emailfilter\Email.class
+com\mycompany\emailfilter\EmailFilter.class
+com\mycompany\emailfilter\SpamDetector.class
+com\mycompany\emailfilter\PhishingDetector.class
+com\mycompany\emailfilter\Interfaz.class
+com\mycompany\emailfilter\CSVEmailLoader.class
